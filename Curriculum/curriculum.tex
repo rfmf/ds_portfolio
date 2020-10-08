@@ -1,0 +1,141 @@
+\documentclass{article}
+
+\usepackage{gensymb}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=.5in]{geometry}
+\usepackage{multicol}
+
+\titlespacing*{\section}
+{0pt}
+{0in}
+{.1in}
+
+\titlespacing*{\subsection}
+{0pt}
+{.1in}
+{.1in}
+
+\titlespacing*{\subsubsection}
+{0pt}
+{0in}
+{0in}
+
+\titleformat{\section}
+{\huge\center\bfseries\lowercase}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\large\bfseries}
+{}
+{0em}
+{}
+
+\titleformat{\subsubsection}
+{\bfseries}
+{}
+{0em}
+{--- }
+
+\renewcommand{\maketitle}{
+\begin{center}
+\begin{Huge}
+\bfseries\theauthor \\
+\end{Huge}
+\end{center}
+}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+
+\title{Curriculum Vitae}
+\author{Rafael Medeiros de Farias Vaz}
+
+\maketitle
+
+\begin{multicols}{2}
+
+\section{Contato}
+  \subsection{Endere\c{c}o}
+Estreito, Florianópolis, SC.
+\subsection{E-Mail}
+rfmf@protonmail.com
+
+\section{Educa\c{c}\~ao}
+\subsection{Superior}
+\subsubsection{An\'alise e Desenvolvimento de Sistemas}
+Universidade Anhembi Morumbi \\
+Em curso - Conclus\~ao prevista para 2020.
+
+\subsection{Outros Cursos}
+\subsubsection{Data Science}
+Codenation \\
+Conclu\'ido em 2020.
+\subsubsection{Curso de Acelera\c{c}\~ao Go e React}
+Codenation \\
+Conclu\'ido em 2019.
+\subsubsection{Data Mining}
+Laureate Digital \\
+Conclu\'ido em 2020.
+\subsubsection{An\'alise Quantitativa de Dados}
+Laureate Digital \\
+Conclu\'ido em 2020.
+\subsubsection{Javascript Algorithms and Data Structures}
+Freecodecamp.org \\
+Conclu\'ido em 2019.
+\subsubsection{DevOps Foundations}
+LinkedIn Learning \\
+Conclu\'ido em 2019.
+\subsubsection{Bash Shell Scripting for Automation}
+LinkedIn Learning \\
+Conclu\'ido em 2019.
+\subsubsection{Statistics 1}
+Laureate International Universities \\
+Conclu\'ido em 2019.
+\subsubsection{Statistics 2}
+Laureate International Universities \\
+Conclu\'ido em 2019.
+\subsubsection{Statistics 3}
+Laureate International Universities \\
+Concluído em 2020.
+
+\section{Experi\^encias e Projetos}
+\subsection{Projeto Pessoal Floripa Dev Jobs}
+\subsubsection{Descri\c{c}\~ao}
+Contabiliza, mensalmente, a quantidade de vezes que certas linguagens de programação são mencionadas na plataforma Indeed em vagas de emprego da Grande Florianópolis.
+\subsubsection{Tecnologias Utilizadas}
+Go (Gin), BoltDB
+\subsection{Projeto Banco UATI}
+\subsubsection{Descri\c{c}\~ao}
+Projeto de conclus\~ao do curso de Acelera\c{c}\~ao Go e React da Codenation, realizado em grupo de 4 pessoas.
+
+A aplica\c{c}\~ao recolhe periodicamente informa\c{c}\~oes do portal da transpar\^encia do
+estado de S\~ao Paulo e realiza an\'alises estat\'isticas em cima dos dados.
+\subsubsection{Tecnologias Utilizadas}
+Go (Gorilla-Mux), Javascript (React/Redux), Python, MariaDB/MySQL
+
+\section{Habilidades}
+\subsection{Linguagens}
+\subsubsection{Programa\c{c}\~ao}
+Python (Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, etc), Go (Gorilla-Mux, Gin), Javascript (React), Bash	
+\subsubsection{Marca\c{c}\~ao}
+{\LaTeX}, HTML, CSS (Bootstrap, Pure, etc), Markdown
+\subsubsection{Verbais}
+Portugu\^es (nativo), Ingl\^es (avan\c{c}ado)
+\subsection{Banco de Dados}
+\subsubsection{SQL}
+MariaDB, SQLite
+\subsubsection{NoSQL}
+BoltDB
+\subsection{Outras Tecnologias}
+Git, Jenkins, Docker
+\subsection{Outras}
+Autodidata, Capacidade L\'ogica/Anal\'itica, Organiza\c{c}\~ao, Criatividade, Agilidade de
+Aprendizado
+
+\end{multicols}
+\end{document}
