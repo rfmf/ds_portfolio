@@ -1,7 +1,7 @@
 # Portfólio de Ciência de Dados
 
-Nome: Rafael Medeiros de Farias Vaz
-Contato: rfmf@protonmail.com
+- Nome: Rafael Medeiros de Farias Vaz
+- Contato: rfmf@protonmail.com
 
 ## Currículo
 
