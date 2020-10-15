@@ -6,3 +6,6 @@ venv/
 
 # logs
 *.log
+
+# temporary data
+*temp_data.csv
