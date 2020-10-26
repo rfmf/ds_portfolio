@@ -21,7 +21,7 @@
 
 ### BeautifulSoup4:
 
-- EM BREVE
+- [Raspagem de "Fake News" reportadas pelo portal Boatos.org](https://github.com/rfmf/ds_portfolio/blob/master/Web%20Scraping/Fake%20News%20do%20portal%20Boatos.org/boatos.org-scrapper.ipynb)
 
 ## Visualização de Dados
 
