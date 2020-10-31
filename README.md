@@ -23,17 +23,13 @@
 
 - [Raspagem de "Fake News" reportadas pelo portal Boatos.org](https://github.com/rfmf/ds_portfolio/blob/master/Web%20Scraping/Fake%20News%20do%20portal%20Boatos.org/boatos.org-scrapper.ipynb)
 
+## Análise Exploratória de Dados
+
+- [Análise de dados de pacientes de doenças cardíacas](https://github.com/rfmf/ds_portfolio/blob/master/EDA/An%C3%A1lise%20de%20Dados%20de%20Pacientes%20de%20Doen%C3%A7as%20Card%C3%ADacas/heart_disease_analysis.ipynb)
+
 ## Visualização de Dados
 
-### Seaborn:
-
-- EM BREVE
-
-### Dashboards (Tableau)
-
-- EM BREVE
-
-## Análise Exploratória de Dados
+### Tableau Dashboards:
 
 - EM BREVE
 
