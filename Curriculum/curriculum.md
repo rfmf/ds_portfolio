@@ -12,7 +12,7 @@
 
 - Análise e Desenvolvimento de Sistemas
   - Universidade Anhembi Morumbi
-  - Em curso. Conclusão prevista para 2020.
+  - Concluído em 2020.
 
 ### Outros Cursos
 
