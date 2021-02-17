@@ -29,7 +29,15 @@
 
 ## Visualização de Dados
 
-### Tableau Dashboards:
+### Dash
+
+- Em Desenvolvimento.
+
+### Google Data Studio
+
+- EM BREVE
+
+### Tableau:
 
 - EM BREVE
 
